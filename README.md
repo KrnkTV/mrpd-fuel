@@ -11,3 +11,10 @@ No support will be given.
 
 ![Image 1](https://i.imgur.com/YY76GAE.png)
 ![Image 2](https://i.imgur.com/CP4s8bg.png)
+
+
+# To do
+ - Add a helicopter refueling depot to the roof
+ - Add pumps to the other stations
+
+Looking for suggestions, simply create an issue.
